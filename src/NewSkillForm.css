@@ -33,3 +33,10 @@ background-color: teal;
 border: 0.2rem solid teal;
 border-radius: 0.3rem;
 }
+
+button:hover {
+    background-color: orange;
+    /* border: .15rem solid white; */
+    border-radius: 0.3rem;
+    color: teal;
+}
